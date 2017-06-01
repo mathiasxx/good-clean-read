@@ -2,67 +2,33 @@
 layout: default
 ---
 
-## A Jekyll template for publishing single-page websites and articles that are incredibly readable and fully responsive
+## A Listening Guide [^1]
 
-### Nice, clean, reading!
 
-Good clean read is set up with readability first in mind. Whatever you want to communicate here can be read easily, and without distraction. Of course, it's fully responsive, which means people can read it naturally on any phone, or tablet. Write it in markdown in <code>index.md</code> and get a beautifully published piece.
+### A Common Reaction
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+A common reaction to first exposure to the AMBUSHER SOUND is to think, "What in the Devil am I listening to? Golly, what it that new feeling?" Perhaps you have thought this yourself. Well, worry not dear reader; this helpful guide is about to lay down all the straight facts about the physiology, the psychology, and the phrenology of the AMBUSHER SOUND.
 
-> "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+<img src="images/ear.jpg" alt="ear">
 
-### With footnotes too!
+### How do you hear?
 
-Back up your stuff with solid, clean citations. Footnotes can be written in markdown and appear like this.[^1] Use as many as you like.[^2]
+It turns out that our primary listening organ is our ear. And, the good news is, you have one. See Diagram 1. Note that the important parts of the ear are documented. Most sound, including ordinary music, is conveyed through the air and into your waxy hole, where small motors transfer the air-sound into brain-sound so that you can do things like yell at your kids or turn off the radio. Unlike most sound, AMBUSHER SOUND is received by your hairy lobes. The lobes exude a sticky hormone juice that binds with the sound and carries it across the skin/blood barrier. Once in your blood, the AMBUSHER SOUND makes its way to the major nerve centers and causes the release of sonotones and heloglobes that trigger the by now familiar feeling of euphoria/nausea.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+### Where does the AMBUSHER SOUND come from?
 
-### Add social sharing buttons
+As everyone knows, all music comes directly from Satan. He builds up a Hellful cacophony down below that circles the core of the Earth and permeates his fiery domain. The sound is then loosed on the world through the evil that is amplified instruments aided by the mysterious power of electricity. AMBUSHER makes use of His Own Devilish Electric Guitar and The Very Evil Analog Synth Modules to pick up the Hellphony, make it perceivable, and bend it to our wishes. Although all sound starts out evil, once the sinister sonorous super-highway has coursed its way through the AMBUSHER amp-fort, the sound becomes at first neutral and then finally, just before it is wrought through the loudspeakers, beneficent.
 
-Simply add the following line anywhere in your markdown:
 
-<pre><code>{% raw  %}
-{% include sharing.html %}
-{% endraw %}
-</code></pre>
 
-and get a nice responsive sharing ribbon.
+### What in the french toast am I hearing
 
-{% include sharing.html %}
+The Theory Of Sound is the result of years of scientific research. This groundbreaking theory explains that sound has nine components: Pitch (P), Timbre (T), Harmonics (H), Loudness (L), Rhythm (R), Attack (A), Sustain (S), Decay (D), and Speed (E). In a stunning study about to be published by a major U.S. university, the AMBUSHER SOUND will be proven to include three additional components that are missing from every other modern sound source. These three critical components, called Hurting (U), Wain (W), and Dipshitness (I), have also been found in trace amounts in core samples taken from the Bodhi Tree that date to the time when Siddhartha Gautama, the Holy Buddha Himself, sat beneath it. The scientific community has long suspected (but never proved) that a rip in time will develop in the near future and cause a live AMBUSHER performance to leak into the past and become caught in a temporal vortex around Buddha’s sacred tree. This tear in the very fabric of space-time could happen this evening. If it does, dear reader, just stay calm and remember: if you see a younger or older version of yourself, please, in the name of all that is holy, look away! 
 
-Add this at the bottom, or the top, or between every other paragraph if you're desprate for social validation.
+But we digress. Back to the question: What are you hearing? Well, clearly, it is the extremely abnormal addition of the (U, W, I) sonic components that cause the stirring in your loins, the spinal tingling, and the unexplainable visual phenomena. This dreivector, known only to be present in AMBUSHER SOUND, cannot be found elsewhere. And it is precisely that which you desperately crave when it is absent, and exactly that for which you paid the low, low price of admission.
 
-Just remember to customize the buttons to fit your url in the `_includes/sharing.html` file. These buttons are made available and customizable by the good folks at kni-labs. See the documentation at [https://github.com/kni-labs/rrssb](https://github.com/kni-labs/rrssb) for more information.
 
-### Font awesome is also included
 
-<i class="fa fa-quote-left fa-3x fa-pull-left fa-border"></i> Now you can use all the cool icons you want! [Font Awesome](http://fontawesome.io) is indeed awesome. But wait, you don't need this sweetness and you don't want that little bit of load time from the font awesome css? No problem, just disable it in the `config.yml` file, and it won't be loaded.
+#### Footnotes
 
-<ul class="fa-ul">
-  <li><i class="fa-li fa fa-check-square"></i>you can make lists...</li>
-  <li><i class="fa-li fa fa-check-square-o"></i>with cool icons like this,</li>
-  <li><i class="fa-li fa fa-spinner fa-spin"></i>even ones that move!</li>
-</ul>
-
-If you need them, you can stick any of the [605 icons](http://fontawesome.io/icons/) anywhere, with any size you like. ([See documentation](http://fontawesome.io/examples/))
-
-<i class="fa fa-building"></i>&nbsp;&nbsp;<i class="fa fa-bus fa-lg"></i>&nbsp;&nbsp;<i class="fa fa-cube fa-2x"></i>&nbsp;&nbsp;<i class="fa fa-paper-plane fa-3x"></i>&nbsp;&nbsp;<i class="fa fa-camera-retro fa-4x">
-
-### Add images to make your point
-
-Images play nicely with this template as well. Add diagrams or charts to make your point, and the template will fit them in appropriately.
-
-<img src="images/hello.svg" alt="sample image">
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Thanks to [Shu Uesengi](https://github.com/chibicode) for inspiring and providing the base for this template with his excellent work, [solo](https://github.com/chibicode).
-
-<hr>
-
-##### Footnotes:
-
-[^1]: This is a footnote. Click to return.
-
-[^2]: Here is another.
+[^1]: [Soundcloud](https://soundcloud.com/ambushersound)
